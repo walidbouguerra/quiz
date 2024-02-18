@@ -49,6 +49,7 @@ let score = 0;
 function startQuiz() {
     currentQuestionIndex = 0;
     score = 0;
+    nextButton.textContent = "Suivant";
     showQuestion();
 }
 
