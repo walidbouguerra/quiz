@@ -5,6 +5,13 @@
 
 ![screenshot](https://raw.githubusercontent.com/walidbouguerra/quiz/main/src/quiz-gif.gif)
 
+## Demo
+Live demo :  [https://quiz-obq3.onrender.com/](https://quiz-obq3.onrender.com/)
+
+## Built with
+- JavaScript
+- Tailwind CSS
+
 ## Installation
 
 To clone and run this application, you'll need [Git](https://git-scm.com) and [Node.js](https://nodejs.org/en/download/) (which comes with [npm](http://npmjs.com)) installed on your computer. From your command line:
